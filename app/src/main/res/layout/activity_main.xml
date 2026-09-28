@@ -66,14 +66,16 @@
 
         <Button
             android:id="@+id/buttonConfirm"
-            android:layout_width="match_parent"
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Button" />
+            android:text="Button"
+            android:layout_gravity="center"/>
 
         <TextView
             android:id="@+id/labelHelloUser"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="TextView" />
+            android:text="@string/greet"
+            android:gravity="center"/>
     </LinearLayout>
 </LinearLayout>

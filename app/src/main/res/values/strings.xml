@@ -7,4 +7,5 @@
     <string name="passConfirm">Powtórz hasło:</string>
     <string name="emailInput">ewa@poczta.pl</string>
     <string name="passInput">abcDef</string>
+    <string name="greet">Witaj ewa@poczta.pl</string>
 </resources>
