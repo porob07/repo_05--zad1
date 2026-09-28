@@ -5,4 +5,6 @@
     <string name="email">Podaj e-mail:</string>
     <string name="pass">Podaj hasło:</string>
     <string name="passConfirm">Powtórz hasło:</string>
+    <string name="emailInput">ewa@poczta.pl</string>
+    <string name="passInput">abcDef</string>
 </resources>
