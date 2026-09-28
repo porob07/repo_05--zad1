@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">z5_1</string>
+    <string name="app_name">loginAppAS</string>
+
+    <string name="header">Rejestruj konto</string>
+    <string name="email">Podaj e-mail:</string>
+    <string name="pass">Podaj hasło:</string>
+    <string name="passConfirm">Powtórz hasło:</string>
 </resources>
